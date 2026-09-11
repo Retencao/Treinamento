@@ -8,7 +8,7 @@ O processo de cancelamento só deve ser iniciado após a recusa de todas as tent
 
 ### **1. Impedimentos para o Cancelamento**
 
-- **[[PROCEDIMENTOS/COLISÃO E VIDROS\|COLISÃO E VIDROS]], [[PROCEDIMENTOS/INDENIZAÇÃO\|INDENIZAÇÃO]] ou [[PROCEDIMENTOS/JURIDICO\|JURIDICO]] Aberto:** O cancelamento **não pode** ser realizado caso haja processo de colisão ou indenização em aberto, pois nenhuma alteração contratual é permitida até a finalização do caso.
+- **[[PROCEDIMENTOS/COLISAO E VIDROS\|COLISAO E VIDROS]], [[PROCEDIMENTOS/INDENIZAÇÃO\|INDENIZAÇÃO]] ou [[PROCEDIMENTOS/JURIDICO\|JURIDICO]] Aberto:** O cancelamento **não pode** ser realizado caso haja processo de colisão ou indenização em aberto, pois nenhuma alteração contratual é permitida até a finalização do caso.
   
   Antes de qualquer ação, é necessário verificar se já foi enviado um e-mail ao setor de **Retenção**:
 
