@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/procedimentos/cancelamento/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/procedimentos/cancelamento/","dg-note-properties":{}}
 ---
 
 
